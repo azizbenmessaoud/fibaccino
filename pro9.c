@@ -6,8 +6,8 @@ int main() {
     int f1 = 1;
     int f = -1;
 
-    scanf("%d\n", &N);
-    printf("f(0) = 0\nf(1) = 1\n");
+    scanf("%d", &N);
+    printf("\nf(0) = 0\nf(1) = 1\n");
 
 
     int k = 2;
